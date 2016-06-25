@@ -1,0 +1,223 @@
+#header {
+	display: flex;
+	align-items: stretch;
+	border-bottom-style: solid;
+	border-bottom-color: gainsboro;
+	border-bottom-width: 1px;
+
+}
+.line{
+	display: inline;
+    margin: auto;
+
+}
+.logo img {
+	margin-left: 100px; 
+	width: 200px;
+	height: 70px;
+}
+.search input{
+	border-radius: 5px;
+	border-color: gainsboro;
+	border-width: 1px;
+ 	background-color: whitesmoke;
+ 	width: 200px;
+ 	height: 30px;
+
+	
+}
+.link {
+	margin-right: 200px;
+
+}
+
+.all {
+	background-color: whitesmoke;
+
+}
+
+.lin {
+	display: inline;
+
+}
+.conteiner{
+
+	display: flex;
+
+}
+#menu {
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	margin: 50px 0px 50px 200px;
+	background-color: white;
+	width: 250px;
+	height: 700px;
+	border: 1px solid gainsboro;
+	
+}
+
+#menu ul {
+
+	list-style-type: none;
+	
+
+}
+
+#menu ul li{
+	font-family: Arial;
+	font-size: medium;
+	margin: 20px 5px 30px 0px;
+}
+
+#information {
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	margin: 50px 200px 50px 0px;
+	background-color: white;
+	width: 600px;
+	height: 700px;
+	border-top: 1px solid gainsboro;
+	border-right: 1px solid gainsboro;
+	border-bottom: 1px solid gainsboro;
+}
+
+
+
+
+#information div {
+
+	display: inline;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: large;
+
+		
+}
+
+#information div a{
+	margin-top: 50px;
+	margin-left: 100px;
+		
+} 
+
+
+ 
+  td .pole {
+
+	margin-bottom: 20px;
+	margin-right: 40px;
+	width: 100px;
+
+ }
+
+tr {
+	height: 50px;
+}
+
+.pole {
+	text-align: right;
+ 	font-family: Arial;
+	font-weight: bold;
+}
+
+ table {
+ 	margin-right: 100px;
+ 	margin-left: 50px;
+ 	margin-top: 30px;
+ }
+
+ table tr td input {
+ 	margin-left: 30px;
+ 	border-style: solid;
+ 	border-radius: 5px;
+	border-color: gainsboro;
+	border-width: 1px;
+	width: 300px;
+	height: 30px;
+
+ }
+
+
+
+h3 {
+	margin-left: 30px;
+	color: grey;
+}
+
+h2 {
+	margin-left: 30px;
+	color: black;
+	font-family: Arial;
+	font-weight: normal;
+}
+
+p {
+	margin-left: 30px;
+	line-height: 0;
+}
+
+td img {
+	margin-left: 70px;
+}
+
+.sub  input{
+	margin-left: 30px;
+	background-color: white;
+	border-radius: 5px;
+	color: blue;
+	border-color: blue;
+	font-family: Arial;
+	font-size: medium;
+	font-weight: bold;
+	border-width: 1px;
+	width: 150px;
+	height: 30px;
+
+
+}
+[type="checkbox"] {
+	width: 10px;
+	height: 10px;
+
+}
+
+select {
+	margin-left: 30px;
+	opacity: 1;
+}
+
+option:hover {
+opacity: 3;
+}
+
+option {
+	display: block;
+	clear: both;
+}
+
+
+.subl  input{
+	background-color: white;
+	color: blue;
+	font-family: Arial;
+	font-size: small;
+	font-weight: normal;
+	border-width: 0px;
+	margin-left: 300px;
+
+}
+
+
+#footer {
+	margin-left: 200px;
+	margin-bottom: 40px;
+}
+ #footer a {
+	text-decoration: none;
+	font-family: Arial;
+	font-size: small;
+	color: navy;
+	font-weight: bold;
+	margin-right: 10px;
+}
+
